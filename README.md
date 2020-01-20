@@ -1,4 +1,5 @@
-# Instruções para codar aqui.
+# Instruções para codar aqui. 
+<br>
 Fork no projeto pelo Github
 git clone -b main --single-branch https://github.com/bernardho95/devradar-web.git  (Branch 'main')
 coda
