@@ -5,10 +5,10 @@ import api from './services/api';
 import DevItem from './components/DevItem';
 import DevForm from './components/DevForm'
 
-import './global.css';
-import './app.css';
-import './sidebar.css';
-import './main.css';
+import './Global.css';
+import './App.css';
+import './Sidebar.css';
+import './Main.css';
 
 //Componente bloco isolado de HTML,CSS e JS (template)
 //Estado Informações mantidas pelo componente(Bug de atualização em real time das variáveis Lembrar imutabilidade)

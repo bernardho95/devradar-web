@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './styles.css'
+import './Styles.css'
 
 function DevForm({ onSubmit }) {
     const [latitude, setLatitude] = useState('');
